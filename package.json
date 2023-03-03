@@ -1,8 +1,8 @@
 {
-  "name": "dqflex",
+  "name": "movierec",
   "version": "1.0.0",
   "private": true,
-  "homepage": "YOUR-GITHUB-PAGES-URL",
+  "homepage": "http://M-plow.github.io/mobylink",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
