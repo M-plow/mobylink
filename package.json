@@ -2,7 +2,7 @@
   "name": "movierec",
   "version": "1.0.0",
   "private": true,
-  "homepage": "http://M-plow.github.io/mobylink",
+  "homepage": "https://m-plow.github.io/mobylink",
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
