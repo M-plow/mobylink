@@ -1,1 +1,1 @@
-export const baseUrl = "mobyrec.link";
+export const baseUrl = "http://mobyrec.link";
